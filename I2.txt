@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 second commit
-
+=======
+second file on B1
+>>>>>>> B1
+++some changes
