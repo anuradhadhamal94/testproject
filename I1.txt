@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-first commit
-=======
-first file on B1
->>>>>>> B1
-some changes
-++changes
