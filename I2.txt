@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-second commit
+first commit
 Additional changes to test
 =======
 second file on B1
